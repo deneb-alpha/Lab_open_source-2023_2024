@@ -1,0 +1,67 @@
+Appunti 13 Dicembre 2023 Laboratorio Open Source Vittorio Dedi
+
+Presentazione di Michael Meeks (Keynote SFSCON 2022)
+Per sostenere economicamente i progetti Open Source ci sono vari modelli di business che vedremo successivamente.
+I modelli di business devono essere sostenibili, questo è un punto chiave per il sostentamento, lo sviluppo e la crescita futura dei progetti Open Source
+
+Non è facile scegliere il modello di business adatto al progetto, non c’è mai una ricetta assoluta
+Vogliamo evitare che il software abbia delle 
+I seguenti sono i possibili modelli di business applicabili:
+
+*  Business basato sulle consulenze
+
+Consiste nel fornire un servizio di consulenza a quegli utenti che la richiedono, è una buona tipologia di business ma ha come aspetto negativo la configurazione di un listino prezzi per i servizi erogati.
+
+ 
+*  Business Opencore  
+
+Non si allinea a quella che è la filosofia dell’open source. Consiste nel fornire diverse estensioni a pagamento. Possono anche essere forniti degli abbonamenti o dei piani dove quello base è gratuito e più si sale e più aumenta il costo (ad esempio i piani Base, Pro, Extra).C’è pero un contro a tutto questo, ovvero che bisogna stare attenti alla gestione del copyright e stare attenti nella scelta delle funzionalità aggiuntive
+
+*  Business Vendita Collaterale
+
+Consiste nel vendere Cd, Libri, Guide.
+Non è consigliato nella maggior parte dei casi, ma può avere senso se ciò avviene in quelle zone dove manca la connessione ad internet o la corrente (come in alcune zone dell’africa).
+
+*  Business Versioni Enterprise
+
+Consiste nell’offrire un supporto costante nella gestione del software e tipicamente viene richiesto in particolari aree tecniche (Ospedali, Uffici, Eccetera..)
+Ad esempio Suse (che offre supporto per almeno 13 anni, la durata dipende dal contratto stipulato)
+Spesso però quando hai a che fare con i clienti, questi pretendono un supporto continuo (comporta il rischio di estenderlo).
+
+*  Business basato sui Codici Sorgente
+
+Se l’utente utilizza una versione community il programma annoierà l’utente con un pop-up fino a quando l’utente non acquisterà una versione pro
+l’avviso può essere tolto ricompilando il codice binario. La chiave del successo di questo modello è la notorietà del brand.
+
+*  Business Scare Ware 
+
+*  Business basato sui Servizi accessori
+
+Ad esempio l’integrazione con Microsoft su LibreOffice (funzionalità proprietarie)
+
+*  Business basato sulle donazioni
+
+Come dice il nome, questo modello si basa sulla contribuzione monetaria dei volontari (come nel caso della ricerca medica sull’ AIDS)
+Non può essere il modello principale su cui basare l’intero sostentamento del progetto
+Vanno messi a disposizione i bilanci per essere trasparenti sulle spese effettuate
+Il messaggio di richiesta della donazione deve essere mostrato al momento giusto(Pagina esterna, Banner, Scritta nella stessa pagina)
+
+*  Prodotto a pagamento solamente sugli stores
+
+Hai il vantaggio di non gestire le vendite e di delegare tutto ai vari store. Hai una grande concorrenza, il brand deve essere riconosciuto
+
+*  Modello ????
+
+Rendere tutto molto complesso e  avere una documentazione inesistente, al fine di mettere a disposizione la propria esperienza e la documentazione a pagamento.
+La community potrebbe non prendere bene ciò che si è fatto e “forkare” il tuo progetto o creare una documentazione che tu non fornisci.
+
+*  Modello ????
+
+Tutto a disposizione ma mancano i file di installazione, che potranno essere acquistati a parte.
+
+
+Si può anche fare un mix di più modelli in modo tale da bilanciare il business e l'interazione con la community Open source che sostiene il progetto 
+Nel caso di Open office, il progetto iniziale è stato “forkato” dalla community, da cui è nato Libre Office.
+Ciò accade quando le aziende utilizzano le community (quasi sfruttandole)  ma non ci collaborano.
+Bisogna tenere a mente che molti utilizzeranno il vostro codice senza ringraziare / contribuire / donare.
+
